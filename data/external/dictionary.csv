@@ -1,10 +1,10 @@
 variavel,descricao,tipo,subtipo
-mpg,Medida utilizada para determinar a eficiência de combustível de um veículo,quantitativa,contínua
-cylinders,Quantidade de cilindros,quantitativa,discreta
-displacement,Se refere ao volume de gás sugado ou descarregado por curso do pistão,quantitativa,contínua
-horsepower,Representa a quantidade de trabalho que um motor pode realizar em um determinado intervalo de tempo,quantitativa,contínua
-weight,Peso do veículo,quantitativa,contínua
-acceleration,Mecanismo que permite ao motorista aumentar ou diminuir a velocidade do veículo,quantitativa,contínua
-model_year,Ano de fabricação,quantitativa,discreta
-origin,País de origem,qualitativa,nominal
-name,Nome do modelo,qualitativa,nominal
+mpg,"Eficiência do combustível do carro, medida em milhas por galão",quantitativa,contínua
+cylinders,Número de cilindros do motor do veículo,quantitativa,discreta
+displacement,Volume total de ar e combustível que os cilindros de um motor podem deslocar em uma única volta do motor,quantitativa,contínua
+horsepower,"Potência do motor, medido em cavalos de potência",quantitativa,contínua
+weight,"Peso do veículo, medido em libras ",quantitativa,contínua
+acceleration,"Tempo necessário para o veículo acelerar de 0 a 60 milhas por hora, medido em segundos",quantitativa,contínua
+model_year,Ano de fabricação do modelo do veículo,quantitativa,discreta
+origin,Origem do veículo,qualitativa,nominal
+name,Nome ou modelo do veículo,qualitativa,nominal
